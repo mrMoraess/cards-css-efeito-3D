@@ -1,0 +1,17 @@
+{
+  "name": "projetocards3defect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpFile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "\"Matheus Rodrigues\"",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
